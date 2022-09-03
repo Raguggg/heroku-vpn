@@ -64,4 +64,4 @@ Also save it for future use.
 - V2 with native wireguard implementation. (iff possible)
 - Support for VPN on github-actions.<br>
 ### Contact:
-- [Telegram](https://t.me/mishizu)
+- [Telegram](https://t.me/ragu2k)
